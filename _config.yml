@@ -79,3 +79,4 @@ theme: material
 deploy:
   type: git
   repo: git@github.com:travellerwjoe/travellerwjoe.github.io.git
+  branch: master
